@@ -1,0 +1,872 @@
+<zuiprezi>
+  <version>7</version>
+  <zui-table>
+    <settings>
+      
+      <autoplay>
+        
+        <delay>4000</delay>
+        
+      </autoplay>
+      
+      <bounds x="-447364.006031228" y="-470265.2042596063" width="874825.0116743526" height="868780.5132110505"/>
+      <aspectratio>off</aspectratio>
+      <languages>
+        <language>de</language>
+      </languages>
+      <spellcheck active="true"/>
+      <mode type="normal"/>
+    </settings>
+    <object id="0_24309637" type="button" x="42014.79999999999" y="331595.25" r="0" s="166.67511569475525" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>blank-quick</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="12_4" type="text" x="41980.99975092447" y="291263.1097827345" r="0" s="471.613454065358" class="head">
+      <height>27.59765625</height>
+      <width>128.5993900181616</width>
+      <p align="center">
+        <text><![CDATA[GNU GPL]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="0_24309637"/>
+      </layout>
+    </object>
+    <object id="8" type="button" x="-162913.8" y="-31028.4" r="0" s="311.9183214622916" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>800</w>
+        <h>95.96148898652224</h>
+      </size>
+    </object>
+    <object id="9" type="text" x="-160839.7209214902" y="-32323.085736047815" r="0" s="780.6617490054527" class="head">
+      <height>27.59765625</height>
+      <width>259.81438017126226</width>
+      <p align="center">
+        <text><![CDATA[Free software licenses]]></text>
+      </p>
+    </object>
+    <object id="23_131233039" type="button" x="10806.499999999913" y="322789.74999999994" r="0" s="49.261387012897735" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>798.1159505608741</w>
+        <h>598.5869629206557</h>
+      </size>
+    </object>
+    <object id="24_131233039" type="image" x="10804.272578999222" y="327410.43627000775" r="-5.703920665830547e-31" s="51.59176545357477">
+      <source w="398" h="222">3215216137<url>3215216137.png</url></source>
+      <sourceUrl>https%3A%2F%2Fipmetrix.files.wordpress.com%2F2014%2F06%2Fgpl.png</sourceUrl>
+    <resource><id>3215216137</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/f/8/9/0e2aeac2a6c254749ac3c7e9d5e3abe9c5001.png</url></resource></object>
+    <object id="25_131233039" type="text" x="10800.868931944275" y="314451.05010831374" r="7.041635610478095e-31" s="334.32611789163303" class="head">
+      <height>27.59765625</height>
+      <width>76.03125</width>
+      <p>
+        <text><![CDATA[GPLv2]]></text>
+      </p>
+    </object>
+    <object id="0_131233039" type="button" x="72579.3" y="322129.60000000003" r="1.2722218725854067e-14" s="49.261387012897735" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>798.1159505608741</w>
+        <h>598.5869629206557</h>
+      </size>
+    </object>
+    <object id="2_131233039" type="text" x="72573.66893194428" y="313790.90010831394" r="1.2722218725854067e-14" s="334.32611789163303" class="head">
+      <height>27.59765625</height>
+      <width>76.03125</width>
+      <p>
+        <text><![CDATA[GPLv3]]></text>
+      </p>
+    </object>
+    <object id="6_131233039" type="image" x="42007.64230019581" y="276234.12726877467" r="7.631752623120007e-31" s="19.279669539198338">
+      <source w="672" h="656">3216348322<url>3216348322.jpe</url></source>
+      <sourceUrl>http%3A%2F%2Fwww.informatica-hoy.com.ar%2Fimagenes-notas%2F2011%2Flicencias-software-gnu-2.jpg</sourceUrl>
+    <resource><id>3216348322</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/b/8/9/5e9e747208dbf7216987bb9e08c432f14e0a8.jpe</url></resource></object>
+    <object id="10_131233039" type="image" x="72505.58883276777" y="326566.963332226" r="-7.774951195089653e-31" s="18.92457777376018">
+      <source w="1280" h="636">3216365314<url>3216365314.png</url></source>
+      <sourceUrl>https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F93%2FGPLv3_Logo.svg%2F1280px-GPLv3_Logo.svg.png</sourceUrl>
+    <resource><id>3216365314</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/a/2/5/7dfd01c8641325849920894b82b73046e0d44.png</url></resource></object>
+    <object id="5_131233039" type="button" x="-108368.95000000001" y="-453428.05" r="0" s="176.12086045613316" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>800</w>
+        <h>185.8529941885516</h>
+      </size>
+    </object>
+    <object id="82_131233039" type="image" x="-132376.58863506382" y="-453133.6131483426" r="0" s="7.94659592777839">
+      <source w="1024" h="1024">3216373534<url>3216373534.png</url></source>
+      <sourceUrl>https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F8%2F8b%2FCopyleft.svg%2F1024px-Copyleft.svg.png</sourceUrl>
+    <resource><id>3216373534</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/3/8/c/d8fe91f08652c98f45762538e22a0eb7b2358.png</url></resource></object>
+    <object id="176_131233039" type="button" x="313532.77290840953" y="-296727.9950514079" r="90" s="194.7199830952972" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>800</w>
+        <h>651.774620741872</h>
+      </size>
+    </object>
+    <object id="177_131233039" type="text" x="362981.5337686151" y="-296740.20324580756" r="90" s="532.8864070198666" class="head">
+      <height>27.59765625</height>
+      <width>-138.7265625</width>
+      <p>
+        <text><![CDATA[BSD license]]></text>
+      </p>
+    </object>
+    <object id="93_131233039" type="button" x="363293.0233986897" y="-311277.25248739857" r="0" s="1.2462784915528748" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>809.9144036206676</w>
+        <h>454.26619710427576</h>
+      </size>
+    </object>
+    <object id="55_131233039" type="button" x="363298.6287120889" y="-311271.9009829691" r="3.966334623071794e-31" s="0.8902741130059743" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1094.3269024678002</w>
+        <h>532.057936540745</h>
+      </size>
+      <meta>
+        <parentObjlib>timeline1</parentObjlib>
+      </meta>
+      <layout>
+        <frametype value="OVERVIEW"/>
+      </layout>
+    </object>
+    <object id="56_131233039" type="shape" x="363383.13535296335" y="-311271.8296871232" r="0" s="1.0225831253030293" class="line3">
+      <geom type="arrow">
+        <sp>-385.10739870902216 0</sp>
+        <ep>385.10739870902216 0</ep>
+        <t>7</t>
+      </geom>
+      <meta>
+        <parentObjlib>timeline1</parentObjlib>
+      </meta>
+    </object>
+    <object id="57_131233039" type="button" x="362988.9679362428" y="-311409.33350517356" r="5.246216662107095e-31" s="0.33654014558196715" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>831.8406997777663</w>
+        <h>484.9</h>
+      </size>
+      <meta>
+        <parentObjlib>timeline1</parentObjlib>
+      </meta>
+    </object>
+    <object id="58_131233039" type="shape" x="362988.9928835486" y="-311271.66424814257" r="4.571943201053261e-31" s="0.6228341762658722" class="poly4">
+      <style borderThickness="NaN"/>
+      <style borderThickness="NaN"/>
+      <geom type="circle">
+        <r>20</r>
+      </geom>
+      <meta>
+        <parentObjlib>timeline1</parentObjlib>
+      </meta>
+    </object>
+    <object id="59_131233039" type="shape" x="362989.1266344899" y="-311309.23990325315" r="-90" s="0.4776819337086437" class="line3">
+      <geom type="line">
+        <sp>-42.104418948530466 0</sp>
+        <ep>42.104418948530466 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentObjlib>timeline1</parentObjlib>
+      </meta>
+    </object>
+    <object id="60_131233039" type="persistentgroup" x="362988.9928835486" y="-311295.2343025072" r="4.571943201053261e-31" s="0.19308666376403386">
+      <m o="58_131233039"/>
+      <m o="59_131233039"/>
+      <meta>
+        <parentObjlib>timeline1</parentObjlib>
+      </meta>
+    </object>
+    <object id="61_131233039" type="text" x="362988.88568276033" y="-311237.69344868045" r="0" s="1.221140799747695" class="body">
+      <height>27.59765625</height>
+      <width>-53.390625</width>
+      <p>
+        <text><![CDATA[1990]]></text>
+      </p>
+      <meta>
+        <parentObjlib>timeline1</parentObjlib>
+      </meta>
+    </object>
+    <object id="62_131233039" type="text" x="363261.73694952397" y="-311299.45006449556" r="0" s="1.221140799747695" class="body">
+      <height>27.59765625</height>
+      <width>-53.390625</width>
+      <p>
+        <text><![CDATA[1999]]></text>
+      </p>
+      <meta>
+        <parentObjlib>timeline1</parentObjlib>
+      </meta>
+    </object>
+    <object id="63_131233039" type="text" x="363521.8366332399" y="-311237.6923318838" r="0" s="1.221140799747695" class="body">
+      <height>27.59765625</height>
+      <width>-13.34765625</width>
+      <p>
+        <text><![CDATA[?]]></text>
+      </p>
+      <meta>
+        <parentObjlib>timeline1</parentObjlib>
+      </meta>
+    </object>
+    <object id="64_131233039" type="shape" x="363261.8280852153" y="-311271.69287550834" r="0" s="0.6228341762658729" class="poly4">
+      <style borderThickness="NaN"/>
+      <style borderThickness="NaN"/>
+      <geom type="circle">
+        <r>20</r>
+      </geom>
+      <meta>
+        <parentObjlib>timeline1</parentObjlib>
+      </meta>
+    </object>
+    <object id="65_131233039" type="shape" x="363262.01199275977" y="-311234.0384364294" r="-90" s="0.4776819337086431" class="line3">
+      <geom type="line">
+        <sp>-42.104418948530466 0</sp>
+        <ep>42.104418948530466 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentObjlib>timeline1</parentObjlib>
+      </meta>
+    </object>
+    <object id="66_131233039" type="persistentgroup" x="363261.8280852153" y="-311248.08342915954" r="0" s="0.16379160415964172">
+      <m o="64_131233039"/>
+      <m o="65_131233039"/>
+      <meta>
+        <parentObjlib>timeline1</parentObjlib>
+      </meta>
+    </object>
+    <object id="67_131233039" type="shape" x="363521.00397198775" y="-311271.69287550804" r="4.571943201053261e-31" s="0.6228341762658722" class="poly4">
+      <style borderThickness="NaN"/>
+      <style borderThickness="NaN"/>
+      <geom type="circle">
+        <r>20</r>
+      </geom>
+      <meta>
+        <parentObjlib>timeline1</parentObjlib>
+      </meta>
+    </object>
+    <object id="68_131233039" type="shape" x="363521.1377229291" y="-311309.2685306188" r="-90" s="0.4776819337086437" class="line3">
+      <geom type="line">
+        <sp>-42.104418948530466 0</sp>
+        <ep>42.104418948530466 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentObjlib>timeline1</parentObjlib>
+      </meta>
+    </object>
+    <object id="70_131233039" type="persistentgroup" x="363521.00397198775" y="-311295.2629298728" r="4.571943201053261e-31" s="0.19308666376403386">
+      <m o="67_131233039"/>
+      <m o="68_131233039"/>
+      <meta>
+        <parentObjlib>timeline1</parentObjlib>
+      </meta>
+    </object>
+    <object id="71_131233039" type="button" x="363521.8478773274" y="-311410.4663989602" r="5.246216662107095e-31" s="0.33654014558196715" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>959.87972130881</w>
+        <h>484.9</h>
+      </size>
+      <meta>
+        <parentObjlib>timeline1</parentObjlib>
+      </meta>
+    </object>
+    <object id="72_131233039" type="button" x="363261.81854975666" y="-311132.4191056171" r="5.246216662107095e-31" s="0.33654014558196715" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>867.3322986577181</w>
+        <h>487.8999999999999</h>
+      </size>
+      <meta>
+        <parentObjlib>timeline1</parentObjlib>
+      </meta>
+    </object>
+    <object id="73_131233039" type="text" x="362985.08707990014" y="-311453.6491543112" r="0" s="1.2565772595679063" class="head">
+      <height>27.59765625</height>
+      <width>189.34614355392105</width>
+      <p align="center">
+        <text><![CDATA[4-clause license]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="57_131233039"/>
+      </layout>
+    </object>
+    <object id="80_131233039" type="text" x="363521.81020320667" y="-311454.3944237143" r="0" s="1.2565772595679063" class="head">
+      <height>27.59765625</height>
+      <width>189.34614355392105</width>
+      <p align="center">
+        <text><![CDATA[2-clause license]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="57_131233039"/>
+      </layout>
+    </object>
+    <object id="81_131233039" type="text" x="363261.7704534205" y="-311167.67731714976" r="0" s="1.2565772595679063" class="head">
+      <height>27.59765625</height>
+      <width>189.34614355392105</width>
+      <p align="center">
+        <text><![CDATA[3-clause license]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="57_131233039"/>
+      </layout>
+    </object>
+    <object id="84_131233039" type="text" x="362986.80525853316" y="-311401.98268673057" r="7.7069158312185304e-31" s="0.9163523037676214" class="body">
+      <height>27.59765625</height>
+      <width>-239.82421875</width>
+      <p>
+        <text><![CDATA[original "BSD License"]]></text>
+      </p>
+    </object>
+    <object id="86_131233039" type="text" x="363264.4151344278" y="-311113.92905526736" r="1.720976464003525e-30" s="0.8207259337470857" class="body">
+      <height>27.59765625</height>
+      <width>-297.46875</width>
+      <p>
+        <text><![CDATA[New/Modified  BSD License]]></text>
+      </p>
+    </object>
+    <object id="87_131233039" type="text" x="363523.73158336326" y="-311393.3623481554" r="1.720976464003525e-30" s="0.8207259337470857" class="body">
+      <height>55.1953125</height>
+      <width>272.61220486146476</width>
+      <p align="center">
+        <text><![CDATA[Simplified BSD License]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[ = MIT = ISC]]></text>
+      </p>
+    </object>
+    <object id="89_131233039" type="text" x="-104594.4110994529" y="-453344.73892083147" r="0" s="432.2226958371922" class="head">
+      <height>27.59765625</height>
+      <width>99.7578079062704</width>
+      <p align="center">
+        <text><![CDATA[Copyleft]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="91_131233039" type="button" x="-431344.8" y="-270351" r="-90" s="179.68823366492444" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>801.7235021551676</w>
+        <h>172.59032191535778</h>
+      </size>
+    </object>
+    <object id="94_131233039" type="text" x="296680.14190188964" y="-282428.1355314799" r="90" s="112.00686674927873" class="body">
+      <height>745.13671875</height>
+      <width>1070.7999999999995</width>
+      <p>
+        <text><![CDATA[Copyright (c) <year>, <copyright holder>]]></text>
+      </p>
+      <p>
+        <text><![CDATA[All rights reserved.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Redistribution and use in source and binary forms, with or without]]></text>
+      </p>
+      <p>
+        <text><![CDATA[modification, are permitted provided that the following conditions are met:]]></text>
+      </p>
+      <p>
+        <text><![CDATA[1. Redistributions of source code must retain the above copyright]]></text>
+      </p>
+      <p>
+        <text><![CDATA[   notice, this list of conditions and the following disclaimer.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[2. Redistributions in binary form must reproduce the above copyright]]></text>
+      </p>
+      <p>
+        <text><![CDATA[   notice, this list of conditions and the following disclaimer in the]]></text>
+      </p>
+      <p>
+        <text><![CDATA[   documentation and/or other materials provided with the distribution.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[3. All advertising materials mentioning features or use of this software]]></text>
+      </p>
+      <p>
+        <text><![CDATA[   must display the following acknowledgement:]]></text>
+      </p>
+      <p>
+        <text><![CDATA[   This product includes software developed by the <organization>.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[4. Neither the name of the <organization> nor the]]></text>
+      </p>
+      <p>
+        <text><![CDATA[   names of its contributors may be used to endorse or promote products]]></text>
+      </p>
+      <p>
+        <text><![CDATA[   derived from this software without specific prior written permission.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[THIS SOFTWARE IS PROVIDED BY <COPYRIGHT HOLDER> ''AS IS'' AND ANY]]></text>
+      </p>
+      <p>
+        <text><![CDATA[EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED]]></text>
+      </p>
+      <p>
+        <text><![CDATA[WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE]]></text>
+      </p>
+      <p>
+        <text><![CDATA[DISCLAIMED. IN NO EVENT SHALL <COPYRIGHT HOLDER> BE LIABLE FOR ANY]]></text>
+      </p>
+      <p>
+        <text><![CDATA[DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES]]></text>
+      </p>
+      <p>
+        <text><![CDATA[(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;]]></text>
+      </p>
+      <p>
+        <text><![CDATA[LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND]]></text>
+      </p>
+      <p>
+        <text><![CDATA[ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT]]></text>
+      </p>
+      <p>
+        <text><![CDATA[(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS]]></text>
+      </p>
+      <p>
+        <text><![CDATA[SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.]]></text>
+      </p>
+    </object>
+    <object id="96_131233039" type="shape" x="309334.0745626753" y="-344791.6108493584" r="180" s="158.31912099695919" class="line3">
+      <geom type="line">
+        <sp>-122.68426346413244 0</sp>
+        <ep>122.68426346413244 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="97_131233039" type="shape" x="335072.6551372405" y="-344902.7378276622" r="179.99999999999997" s="158.31912099695919" class="line3">
+      <geom type="line">
+        <sp>-15.685972753393596 0</sp>
+        <ep>15.685972753393596 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="98_131233039" type="text" x="334948.9363526091" y="-351115.7891119769" r="90" s="322.49181055573644" class="body">
+      <height>27.59765625</height>
+      <width>-17.68359375</width>
+      <p>
+        <text><![CDATA[©]]></text>
+      </p>
+    </object>
+    <object id="99_131233039" type="text" x="310095.36180097336" y="-358462.94342810265" r="90" s="180.06447883586608" class="body">
+      <height>27.59765625</height>
+      <width>-113.40234375</width>
+      <p>
+        <text><![CDATA[Conditions]]></text>
+      </p>
+    </object>
+    <object id="100_131233039" type="shape" x="270089.5732811232" y="-344789.4005330895" r="-180" s="158.31912099695919" class="line3">
+      <geom type="line">
+        <sp>-92.88748569163572 0</sp>
+        <ep>92.88748569163572 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="101_131233039" type="text" x="271237.7410472941" y="-358341.2333757345" r="90" s="180.06447883586608" class="body">
+      <height>27.59765625</height>
+      <width>-112.0078125</width>
+      <p>
+        <text><![CDATA[Disclaimer]]></text>
+      </p>
+    </object>
+    <object id="3_131233039" type="text" x="-432161.41631371307" y="-263514.4803254712" r="-90" s="432.22269583719213" class="head">
+      <height>27.59765625</height>
+      <width>-113.3203125</width>
+      <p>
+        <text><![CDATA[Copyright]]></text>
+      </p>
+    </object>
+    <object id="4_131233039" type="image" x="-432277.07586430927" y="-297794.9915950332" r="90" s="8.490554106067895">
+      <source w="1024" h="1024">3216373534<url>3216373534.png</url></source>
+      <sourceUrl>https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F8%2F8b%2FCopyleft.svg%2F1024px-Copyleft.svg.png</sourceUrl>
+    <resource><id>3216373534</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/3/8/c/d8fe91f08652c98f45762538e22a0eb7b2358.png</url></resource></object>
+    <object id="7_131233039" type="text" x="349918.6728706161" y="-295957.29734322167" r="90" s="262.6173713837658" class="body">
+      <height>27.59765625</height>
+      <width>395.40008637121457</width>
+      <p>
+        <text><![CDATA[Berkley Software Distribution license]]></text>
+      </p>
+    </object>
+    <object id="9_131233039" type="button" x="403468.30000000005" y="147445.79999999993" r="90" s="263.80105160114925" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>797.6366322008862</w>
+        <h>176.32407572436824</h>
+      </size>
+    </object>
+    <object id="11_131233039" type="text" x="403513.0184611494" y="151603.7075504575" r="90" s="585.0437191067991" class="head">
+      <height>27.59765625</height>
+      <width>284.5059459351244</width>
+      <p align="center">
+        <text><![CDATA[Apache License 2.0]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="8_131233039" type="button" x="42457.07393172682" y="362177.32856765884" r="0" s="59.59392311398284" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1219.7048961749351</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="12_131233039" type="text" x="42454.74999999997" y="360903.9" r="0" s="160.11893432948006" class="body">
+      <height>27.59765625</height>
+      <width>412.4493900181616</width>
+      <p align="center">
+        <text><![CDATA[GNU Lesser General Public License]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="14_131233039" type="text" x="42445.24999999991" y="351496.70000000007" r="0" s="334.32611789163303" class="head">
+      <height>27.59765625</height>
+      <width>72.69197338643936</width>
+      <p align="center">
+        <text><![CDATA[LGPL]]></text>
+      </p>
+    </object>
+    <object id="16_131233039" type="image" x="42455.00000000002" y="371786.65" r="0" s="141.68048117638477">
+      <source w="200" h="87">3224965912<url>3224965912.png</url></source>
+      <sourceUrl>https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F3%2F3b%2FLGPLv3_Logo.svg%2F200px-LGPLv3_Logo.svg.png</sourceUrl>
+    <resource><id>3224965912</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/3/e/1/d63edc66120138d6bad94bc3e2708f4131ebf.png</url></resource></object>
+  </zui-table>
+  <path>
+    <s>
+      <eagle o="8"/>
+    </s>
+    <s>
+      <eagle o="91_131233039"/>
+    </s>
+    <s>
+      <eagle o="5_131233039"/>
+    </s>
+    <s>
+      <eagle o="176_131233039"/>
+    </s>
+    <s>
+      <eagle o="93_131233039"/>
+    </s>
+    <s>
+      <eagle o="9_131233039"/>
+    </s>
+    <s>
+      <eagle o="0_24309637"/>
+    </s>
+    <s>
+      <eagle o="8"/>
+    </s>
+  </path>
+  <style type="text/css"><![CDATA[
+@font-face
+{
+	src: url('Arimo-Regular.keg');
+	fontFamily: body;
+	font-class: body;
+	font-style: normal;
+	font-weight: normal;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('Arimo-Bold.keg');
+	fontFamily: head;
+	font-class: head;
+	font-style: normal;
+	font-weight: bold;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('Arimo-BoldItalic.keg');
+	fontFamily: strong;
+	font-class: strong;
+	font-style: italic;
+	font-weight: bold;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('Arimo-Italic.keg');
+	fontFamily: undefined;
+	font-class: undefined;
+	font-style: italic;
+	font-weight: normal;
+	font-family: Arimo;
+}
+
+*/ text
+{
+	lockTintAlpha: 0.15;
+	padding: 1.2;
+}
+
+.line1
+{
+	color: #c7c7c4;
+	gradEndColor: #c7c7c4;
+	gradStartColor: #c7c7c4;
+}
+
+.line2
+{
+	color: #555;
+	gradEndColor: #555;
+	gradStartColor: #888;
+}
+
+.line3
+{
+	color: #5374ec;
+	gradEndColor: #5374ec;
+	gradStartColor: #5374ec;
+}
+
+.line4
+{
+	color: #66e186;
+	gradEndColor: #66e186;
+	gradStartColor: #66e186;
+}
+
+.line5
+{
+	color: #fa5151;
+	gradEndColor: #fa5151;
+	gradStartColor: #fa5151;
+}
+
+.poly1
+{
+	color: #fff;
+	gradEndColor: #c7c7c4;
+	gradStartColor: #c7c7c4;
+}
+
+.poly2
+{
+	color: #fff;
+	gradEndColor: #000;
+	gradStartColor: #333;
+}
+
+.poly3
+{
+	color: #fff;
+	gradEndColor: #5374ec;
+	gradStartColor: #5374ec;
+}
+
+.poly4
+{
+	color: #fff;
+	gradEndColor: #66e186;
+	gradStartColor: #66e186;
+}
+
+.poly5
+{
+	color: #fff;
+	gradEndColor: #fa5151;
+	gradStartColor: #fa5151;
+}
+
+/* background
+{
+	gradEnd: 16777215;
+	gradStart: 16777215;
+}
+
+Background
+{
+	gradEnd: #fff;
+	gradStart: #fff;
+}
+
+Grid
+{
+	color: #b8b8b8;
+}
+
+ZArrow
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	gradEndAlpha: 1;
+	gradEndColor: #fff;
+	gradStartAlpha: 1;
+	gradStartColor: #fff;
+	thickness: 10;
+}
+
+ZCircle
+{
+	borderAlpha: 0;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+ZCurveLine
+{
+	color: #fff;
+}
+
+ZFrame.bracket
+{
+	borderAlpha: 0;
+	borderColor: #318bff;
+	borderThickness: 0;
+	gradEndAlpha: 1;
+	gradEndColor: #318bff;
+	gradStartAlpha: 1;
+	gradStartColor: #318bff;
+	padding: 1.03;
+	thickness: 3;
+}
+
+ZFrame.circle
+{
+	borderAlpha: 0;
+	borderColor: #333;
+	borderThickness: 3;
+	gradEndAlpha: 1;
+	gradEndColor: #318bff;
+	gradStartAlpha: 1;
+	gradStartColor: #318bff;
+	padding: 1.03;
+	thickness: 3;
+}
+
+ZFrame.roundrect
+{
+	borderAlpha: 1;
+	borderColor: #318bff;
+	borderThickness: 10;
+	gradEndAlpha: 0;
+	gradEndColor: #318bff;
+	gradStartAlpha: 0;
+	gradStartColor: #318bff;
+	padding: 1.03;
+	radius: 1;
+	thickness: 3;
+}
+
+ZLabel
+{
+	lockTintAlpha: 0.15;
+	padding: 1.2;
+}
+
+ZLabel.body
+{
+	color: #333;
+	fontFamily: body;
+}
+
+ZLabel.body-background
+{
+	background-alpha: 0.9;
+	background-color: #e4e4dd;
+	background-padding: 6;
+}
+
+ZLabel.head
+{
+	color: #333;
+	fontFamily: head;
+}
+
+ZLabel.head-background
+{
+	background-alpha: 0.9;
+	background-color: #f6f1a6;
+	background-padding: 6;
+}
+
+ZLabel.strong
+{
+	color: #333;
+	fontFamily: strong;
+}
+
+ZLabel.strong-background
+{
+	background-alpha: 0.9;
+	background-color: #d3e2ee;
+	background-padding: 6;
+}
+
+ZLine
+{
+	color: #fff;
+}
+
+ZMarker
+{
+	alpha: .65;
+	color: #f0ea82;
+}
+
+ZPath
+{
+	alpha: 1;
+	color: #333;
+	textColor: #fff;
+	thickness: 3;
+}
+
+ZPath Ball.base
+{
+	alpha: 1;
+	fillColor: #333;
+	radius: 12;
+}
+
+ZPath Ball.mid
+{
+	alpha: .5;
+	fillColor: #333;
+	radius: 8;
+}
+
+ZPoly
+{
+	borderAlpha: 0;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+]]></style>
+  <hash>458e0701</hash>
+<sync><oid>uoc66gfvbu61</oid><title>free-software-licenses</title><hash>458e0701</hash></sync><config>My2WQRIBkNszu5X9CzHyu6u4axp+WRwkm8Aw8ldXoZbYQRmcOlE8vTS6rh24xBMXtWj+/SqZA+EHr1+Kj+EgBwDmiMscoRTTygh84Kx9Z/4y2kYDcjgd15cmJpDTN55yPMFJlZlI4vi1/Jl1KQch2hya0ZiW98A02gRPm9axNtQij1Nc5lDshwpnOJ5Uq1HWOlf2TBjCkrvuKC8whKTuUkhAasvGWvUSD6qh6+xElIz/MLTnTIC5fXxgZT8VkFdC3VWNLZeSJalsE1H6v7SkB31CTpE1J2RrjzQfamOIH8gpqhQD4Mrbykp5y4Aps4uRlIHyHszVVcrjF8qIfn0jPg==</config></zuiprezi>
